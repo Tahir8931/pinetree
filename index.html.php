@@ -11,13 +11,13 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100 " href="singleproduct.html" src="gondola.jpg" alt="Artists" style="width: 10rem;">
+      <img class="d-block w-100 " href="singleproduct.html" src="img/gondola.jpg" alt="Artists" style="width: 10rem;">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 background-size:contain;"  href="singleproduct.html" src="flamingoforrest.jpg" alt="Pick of the week">
+      <img class="d-block w-100 background-size:contain;"  href="singleproduct.html" src="img/flamingoforrest.jpg" alt="Pick of the week">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 "  href="singleproduct.html" src="london.jpg" alt="Recently Added">
+      <img class="d-block w-100 "  href="singleproduct.html" src="img/london.jpg" alt="Recently Added">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
